@@ -55,5 +55,3 @@ plugins:
 #   - vendor/ruby/
 include:
   - _includes
-layouts:
-  - _layouts
